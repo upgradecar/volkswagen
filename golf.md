@@ -1,7 +1,7 @@
 ### 高尔夫7 / 7.5 / GTI
 
 ##### 1.电动后视镜折叠
-选择`09-中央电气系统`  -> 访问权限 -> `31347` -> 匹配  
+选择`09-中央电气系统`  -> 访问权限 -> `31347` -> 执行 -> 功能匹配    
 搜索通道 -> `Funk Spiegelanklappen` -> 值选择为 `激活`  
 搜索通道 -> `Funk Spiegelanklappung Modus` -> 值选择为 `by look command viaremote control key`  
     `by look command viaremote control key` 锁车立即自动折叠  
