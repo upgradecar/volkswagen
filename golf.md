@@ -14,6 +14,12 @@
 ![搜索通道](resources/golf-images/Funk_Spiegelanklappung_Modus.jpg "Funk Spiegelanklappung Modus")
 ![基本设置](resources/golf-images/ddhsjzd_005.jpg "选择所有匹配值的复位")
 
+
+##### 2.转向3变5  
+选择`09-中央电气系统`  -> 访问权限 -> `31347` -> 执行 -> 功能匹配  
+搜索通道 -> `Komfortblinken Blinkerzyklen`-> 值改为 `5`, 可以输入1-5内数字,对应同闪烁次数  
+
+
 ##### 10.液晶仪表改表底
 选择`17仪表版` -> 允许进入 -> `31347` -> 匹配  
 搜索通道 -> `ENG153766_Tube_Version` 值选择为 `variant_4`  
