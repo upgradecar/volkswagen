@@ -23,13 +23,12 @@
 选择`17-仪表版` -> 允许进入 -> `31347` -> 匹配  
 搜索通道 -> `ENG153766_Tube_Version` 值选择为 `variant_4`  
     `variant_1`至`variant_4`的值分别对应`240`,`260`,`280`,`320`  
+![模块选择](resources/golf-images/modules.jpg)
+![搜索通道](resources/golf-images/ENG153766_Tube_Version.jpg "ENG153766_Tube_Version")
 
 ##### 11.永久关闭自动启停  
 选择`19-CAN网关` -> 功能匹配
 搜索通道 -> `IDE08348` -> 值改为`12` -> 执行 
-
-![模块选择](resources/golf-images/modules.jpg)
-![搜索通道](resources/golf-images/ENG153766_Tube_Version.jpg "ENG153766_Tube_Version")
 
 ### 故障清除
 
